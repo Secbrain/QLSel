@@ -4,7 +4,7 @@
 
 ## Introduction
 
-QLSel is an efficient selection algorithm for the high-fidelity link in the wild without assumptions about the fidelity distribution. We design the tailored link exploration strategy and link selection probability based on the coefficient of variation and Thompson sampling, to cope with the exploration-exploitation trade-off dilemma in the Multi-Armed Bandit (MAB) problem (for problem modeling). 
+QLSel is an efficient selection algorithm for the high-fidelity link in the wild without assumptions about the fidelity distribution. We design the tailored link exploration strategy and link selection probability based on the coefficient of variation and Thompson sampling, to cope with the exploration-exploitation trade-off dilemma in the Multi-Armed Bandit (MAB) problem (for problem modeling). The demonstration video is available online https://youtu.be/46fg2M-mW74.
 
 ## Requirements
 
